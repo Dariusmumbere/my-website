@@ -131,7 +131,7 @@
     }
     #navbar__logo{
 
-        padding-left: 95px;
+        padding-left: 135px;
 
     }
     .navbar__toggle .bar{
@@ -140,7 +140,7 @@
         margin: 5px auto;
         transition: all 0.3s ease-in-out;
         background: #fff;
-        margin-right: 20px;
+        float: right;
     }
     .navbar__item{
         width: 100%;
@@ -176,6 +176,7 @@
         display: block;
         cursor: pointer;
         margin-right: 20px;
+        float: right;
     }
     #mobile-menu .is-active .bar:nth-child(2){
         opacity: 0;
@@ -419,7 +420,7 @@
     background-image: url('group.jpg');
     
     padding: 20px;
-    font-size: 40px;
+    font-size: 24px;
 }
 .man h1{
     font-family: 'Roboto',sans-serif;
