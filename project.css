@@ -428,7 +428,7 @@
 }
 .man a{
     text-decoration: none;
-    font-size: 120%;
+    font-size: 85%;
     color: orangered;
     padding: 10px;
     border-radius: 20px;
@@ -449,6 +449,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
+    
     
 }
 .services h2{
@@ -493,6 +494,7 @@
     .services-container{
         display: grid;
         grid-template-columns: repeat(1, 1fr);
+        margin: 10px;
     
     }
     .picture{
