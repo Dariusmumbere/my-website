@@ -140,6 +140,7 @@
         margin: 5px auto;
         transition: all 0.3s ease-in-out;
         background: #fff;
+        margin-right: 20px;
     }
     .navbar__item{
         width: 100%;
@@ -174,6 +175,7 @@
     .navbar__toggle .bar{
         display: block;
         cursor: pointer;
+        margin-right: 20px;
     }
     #mobile-menu .is-active .bar:nth-child(2){
         opacity: 0;
@@ -392,7 +394,8 @@
         font-size: 2rem;
         margin-top: 12rem;
     }
-    .man{
+    .man h1{
+        font-size: 24px
         
 
     }
