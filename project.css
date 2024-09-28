@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Roboto',sans-serif;
+    max-width: 100%;
 }
 .navbar{
 
@@ -261,8 +262,16 @@
         text-align: center;
         margin-bottom: 4rem;
         
+        
             
     }
+    .man h1{
+        font-size: 24px;
+    }
+    .man p{
+        font-size: 16px;
+    }
+            
     .main__content h1{
         font-size: 2.5rem;
         margin-top: 2rem;
@@ -533,6 +542,7 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
 #cc{
     background-color: lightgoldenrodyellow;
 }
