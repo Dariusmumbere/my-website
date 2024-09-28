@@ -131,7 +131,7 @@
     }
     #navbar__logo{
 
-        padding-left: 135px;
+        padding-left: 95px;
 
     }
     .navbar__toggle .bar{
@@ -140,7 +140,7 @@
         margin: 5px auto;
         transition: all 0.3s ease-in-out;
         background: #fff;
-        float: right;
+        
     }
     .navbar__item{
         width: 100%;
@@ -175,8 +175,8 @@
     .navbar__toggle .bar{
         display: block;
         cursor: pointer;
-        margin-right: 20px;
-        float: right;
+        
+        
     }
     #mobile-menu .is-active .bar:nth-child(2){
         opacity: 0;
@@ -408,6 +408,9 @@
     .foo{
         margin-top: 12rem;
 
+    }
+    .man a{
+        padding: 20px;
     }
 }
 .copy p{
