@@ -37,7 +37,7 @@
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
     display: flex;
-    align-items: center;
+    align-items: left;
     margin-right: 150px;
     cursor: pointer;
     text-decoration: none;
@@ -140,6 +140,7 @@
         margin: 5px auto;
         transition: all 0.3s ease-in-out;
         background: #fff;
+        float: right;
         
     }
     .navbar__item{
@@ -399,6 +400,9 @@
         font-size: 24px
         
 
+    }
+    .man p{
+        padding: 20px;
     }
     #cc{
         height: 2100px;
