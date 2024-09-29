@@ -107,6 +107,10 @@
         max-width: 1300px;
         padding: 0;
     }
+    .back{
+        margin: 10px;
+        padding: 20px;
+    }
     .navbar__menu{
         display: grid;
         grid-template-columns: auto;
