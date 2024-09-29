@@ -598,7 +598,7 @@ fieldset{
 .background{
     text-align: center;
 }
-.back{
+div back{
     border-radius: 10px;
     background-color: green;
     width: 97%;
