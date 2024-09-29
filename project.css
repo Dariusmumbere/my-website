@@ -598,7 +598,8 @@ fieldset{
 .background{
     text-align: center;
 }
-.back{
+.back p{
     width: 90%;
+    text-align: justify;
 }
     
