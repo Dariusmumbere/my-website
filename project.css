@@ -259,6 +259,9 @@
         margin: 0 auto;
         height: 130vh;
     }
+    .back{
+        max-width: 100%;
+    }
     .foo{
         padding: 20px;
     }
