@@ -601,8 +601,9 @@ fieldset{
 .back{
     border-radius: 10px;
     background-color: green;
-    width: 95%;
+    width: 97%;
     padding: 20px;
+    margin-bottom: 20px;
     
 }
     
