@@ -593,10 +593,15 @@ fieldset{
 }
 .dd{
     background-color: orange;
+    
+}
+.background{
+    text-align: center;
 }
 .back{
     border-radius: 10px;
     background-color: green;
+    margin-right: 20px;
     
 }
     
