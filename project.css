@@ -138,6 +138,9 @@
         padding-left: 95px;
 
     }
+    .navbar__toggle{
+        text-align: right;
+    }
     .navbar__toggle .bar{
         width: 25px;
         height: 3px;
