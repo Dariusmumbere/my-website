@@ -93,6 +93,9 @@
     transition: all 0.3s ease;
 
 }
+.navbar__toggle{
+        text-align: right;
+}
 .navbar__links:hover{
     color: #f77062;
     transition: all 0.3s ease;
@@ -139,7 +142,7 @@
 
     }
     .navbar__toggle{
-        text-align: right;
+        float: right;
     }
     .navbar__toggle .bar{
         width: 25px;
