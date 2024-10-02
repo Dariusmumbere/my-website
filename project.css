@@ -611,4 +611,6 @@ fieldset{
 .back{
     width: 90%;
 }
-    
+.text-center{
+    float: right;
+}
