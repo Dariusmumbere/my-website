@@ -610,6 +610,7 @@ fieldset{
 }
 .back{
     width: 90%;
+    margin: 10px;
 }
 .text-center{
     float: right;
